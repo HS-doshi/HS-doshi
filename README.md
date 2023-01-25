@@ -6,7 +6,7 @@
 
 - 🔭 I’m pursuing B.E. - IT **(Pre-Final Year)** From GCET, v.v.nagar.
 
-- 🌱 I’m currently working on **e-commerce project based on react & next js.**
+- 🌱 I’m currently working on **Full stack Stack Overflow Project.**
 
 - 👯 I’m looking to collaborate on **an open source**
 
