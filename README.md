@@ -10,11 +10,9 @@
 
 - 👯 I’m looking to collaborate on **an open source**
 
-- 💬 Ask me about **related to web Development.**
-
 - 📫 How to reach me **doshiheet2872003@gmail.com**
 
-- ⚡ Interest **Playing Cricket, Chess.**
+- ⚡ Interest **Playing Chess.Loves Driving a Car.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
