@@ -6,13 +6,13 @@
 
 - 🔭 I’m pursuing B.E. - IT **(Pre-Final Year)** From GCET, v.v.nagar.
 
-- 🌱 I’m currently working on **Stack Overflow Project.**
+- 🌱 I’m currently working on **E-cell Book : Tatvasoft Training Project.**
 
-- 👯 I’m looking to collaborate on **an open source**
+- 👯 I’m looking to collaborate on **an open source.**
 
 - 📫 How to reach me **doshiheet2872003@gmail.com**
 
-- ⚡ Interest **Playing Chess,Loves Driving a Car & Reading Books.**
+- ⚡ Interest **Playing Chess, Loves Driving a Car & Reading Books.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
