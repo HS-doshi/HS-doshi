@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hs-doshi&label=Profile%20views&color=0e75b6&style=flat" alt="hs-doshi" /> </p>
 
-- 🔭 I’m pursuing B.E. - IT **(Pre-Final Year)** From GCET, v.v.nagar.
+- 🔭 I’m pursuing B.E. - IT **(Final Year)** From GCET, v.v.nagar.
 
-- 🌱 I’m currently working on **E-cell Book : Tatvasoft Training Project.**
+- 🌱 I’m currently learning **Angular JS!** and exploring many technology.
 
 - 👯 I’m looking to collaborate on **an open source.**
 
