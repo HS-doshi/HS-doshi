@@ -6,7 +6,7 @@
 
 - 🔭 I’m pursuing B.E. - IT **(Final Year)** From GCET, v.v.nagar.
 
-- 🌱 I’m currently learning **Angular JS! & TYpescript** and exploring many technology.
+- 🌱 I’m currently learning **Angular JS! & Typescript** and exploring many technology.
 
 - 👯 I’m looking to collaborate on **an open source.**
 
