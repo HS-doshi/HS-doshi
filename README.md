@@ -1,12 +1,12 @@
 <h1 align="center">Hello! 👋, I'm Heet Doshi</h1>
-<h3 align="center">A passionate about Frontend Developer.</h3>
+<h3 align="center">Software Developer</h3>
 <img align="right" alt="Web Developer" width ="400" border-radius="10px" src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hs-doshi&label=Profile%20views&color=0e75b6&style=flat" alt="hs-doshi" /> </p>
 
 - 🔭 I’m pursuing B.E. - IT **(Final Year)** From GCET, v.v.nagar.
 
-- 🌱 I’m currently learning **Angular JS!** and exploring many technology.
+- 🌱 I’m currently learning **Angular JS! & TYpescript** and exploring many technology.
 
 - 👯 I’m looking to collaborate on **an open source.**
 
