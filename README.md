@@ -1,7 +1,10 @@
-<h1 align="center">Hello! 👋, I'm Heet Doshi</h1>
-<h3 align="center">Software Developer</h3>
-<img align="right" alt="Web Developer" width ="400" border-radius="10px" src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg">
+<img aligh="center" alt="Coding" width="1080" src="https://images.unsplash.com/photo-1510915228340-29c85a43dcfe?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" >
 
+<!-- https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D -->
+<h1 align="center">Hello! 👋, I'm Heet Doshi</h1>
+<h3 align="center">Passionate Software Developer!</h3>
+<p align="center" width="400">
+<img  src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"/></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hs-doshi&label=Profile%20views&color=0e75b6&style=flat" alt="hs-doshi" /> </p>
 
 - 🔭 I’m pursuing B.E. - IT **(Final Year)** From GCET, v.v.nagar.
