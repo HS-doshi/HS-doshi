@@ -12,7 +12,7 @@
 
 - 🔭 I’m doing internship as a **Software Developer**.
 
-- 🌱 I’m currently learning **Angular & Typescript** and exploring many technology.
+- 🌱 I’m currently learning **Angular & Typescript.** 
 
 - 👯 I’m looking to collaborate on **an open source.**
 
