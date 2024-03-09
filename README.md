@@ -12,7 +12,7 @@
 
 - 🔭 I’m pursuing internship as a **Software Developer** at Wellnest Health Monitoring Pvt Ltd.
 
-- 🌱 I’m currently learning **Angular & Typescript.** 
+- 🌱 I have good skills in **Angular & Typescript.** 
 
 - 📫 How to reach me **doshiheet2872003@gmail.com**
 
