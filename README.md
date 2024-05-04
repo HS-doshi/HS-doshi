@@ -13,9 +13,8 @@
 - 🔭 I’m pursuing internship as a **Software Developer** at Wellnest Health Monitoring Pvt Ltd.
 
 - 🌱 I have good skills in **Angular & Typescript.**
-- 📽️ Working on **Ecommerce Project**  - Have a solid functionality!
- 
-
+- 📽️ Learning on advanced concepts! & implementation of it.
+  
 - 📫 How to reach me **doshiheet2872003@gmail.com**
 
 - ⚡ Interest **Playing Chess, Loves Driving a Car & Reading Books.**
