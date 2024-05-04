@@ -13,7 +13,7 @@
 - 🔭 I’m pursuing internship as a **Software Developer** at Wellnest Health Monitoring Pvt Ltd.
 
 - 🌱 I have good skills in **Angular & Typescript.**
-- 📽️ Learning on advanced concepts! & implementation of it.
+- 📽️ Learning advanced concepts! & implementation of it.
   
 - 📫 How to reach me **doshiheet2872003@gmail.com**
 
