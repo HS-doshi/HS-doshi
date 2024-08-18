@@ -5,15 +5,16 @@
 
 <!-- https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D -->
 <h1 align="center">Hello! 👋, I'm Heet Doshi</h1>
-<h3 align="center">Passionate Frontend Developer!</h3>
+<h3 align="center">Associate Frontend Developer!</h3>
 <p align="center" width="400">
 <img  src="https://images.unsplash.com/photo-1587620962725-abab7fe55159?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvZ3JhbW1pbmd8ZW58MHx8MHx8fDA%3D"/></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hs-doshi&label=Profile%20views&color=0e75b6&style=flat" alt="hs-doshi" /> </p>
 
-- 🔭 I’m pursuing internship as a **Software Developer** at Wellnest Healthcare Monitoring Pvt Ltd.
+- 🔭 I’m working as a **Associate Frontend Developer** at Artem HealthTech - Healthcare IT Solution.
 
 - 🌱 I have good skills in **Angular & Typescript.**
-- 📽️ Learning advanced concepts! & implementation of it.
+  
+- 📽️ Working on BMC - Brihanmumbai Municipal Corporation project.
   
 - 📫 How to reach me **doshiheet2872003@gmail.com**
 
